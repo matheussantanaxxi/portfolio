@@ -157,6 +157,14 @@ p {
   margin-bottom: 1rem;
 }
 
+/* AQUI ESTÃO MINHAS MODIFICAÇÕES */
+
+#title{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/***********************************/
+
 abbr[title],
 abbr[data-bs-original-title] {
   -webkit-text-decoration: underline dotted;
