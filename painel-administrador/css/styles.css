@@ -159,8 +159,9 @@ p {
 
 /* AQUI ESTÃO MINHAS MODIFICAÇÕES */
 
-#title{
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+#title, #menu, #opcoes{
+  font-family: 'Roboto Condensed', sans-serif;
+  color: rgb(255, 255, 255);
 }
 
 /***********************************/
